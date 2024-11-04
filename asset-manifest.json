@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/DaVoice.io/static/css/main.782e178f.css",
+    "main.js": "/DaVoice.io/static/js/main.bb7b22eb.js",
+    "static/js/851.e06ac06d.chunk.js": "/DaVoice.io/static/js/851.e06ac06d.chunk.js",
+    "static/js/453.acb7a37e.chunk.js": "/DaVoice.io/static/js/453.acb7a37e.chunk.js",
+    "static/js/943.b8c2bed6.chunk.js": "/DaVoice.io/static/js/943.b8c2bed6.chunk.js",
+    "static/media/wave.png": "/DaVoice.io/static/media/wave.c372c6221f70b1c019d8.png",
+    "static/media/Seirtech_logo.svg": "/DaVoice.io/static/media/Seirtech_logo.ca44edc24f512982b04d2652bbd16971.svg",
+    "static/media/Relyon_logo.svg": "/DaVoice.io/static/media/Relyon_logo.6edd0676b8bdf53a8d122c3f73314444.svg",
+    "static/media/hotel_genie_logo.svg": "/DaVoice.io/static/media/hotel_genie_logo.8a075e9b17e53a4ca9da46e0a51e0c22.svg",
+    "index.html": "/DaVoice.io/index.html",
+    "main.782e178f.css.map": "/DaVoice.io/static/css/main.782e178f.css.map",
+    "main.bb7b22eb.js.map": "/DaVoice.io/static/js/main.bb7b22eb.js.map",
+    "851.e06ac06d.chunk.js.map": "/DaVoice.io/static/js/851.e06ac06d.chunk.js.map",
+    "453.acb7a37e.chunk.js.map": "/DaVoice.io/static/js/453.acb7a37e.chunk.js.map",
+    "943.b8c2bed6.chunk.js.map": "/DaVoice.io/static/js/943.b8c2bed6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.782e178f.css",
+    "static/js/main.bb7b22eb.js"
+  ]
+}
